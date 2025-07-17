@@ -19,3 +19,10 @@
    
    ## 隐私说明
    所有数据本地存储，不收集个人信息。
+![1](https://github.com/user-attachments/assets/d3dd37cf-2d2d-4a0f-9177-74c6eadff56f)
+![2](https://github.com/user-attachments/assets/a3a9cb2a-aab4-4f1c-a858-dc661af9b731)
+![3](https://github.com/user-attachments/assets/e9783b65-d65d-4e09-bc5e-e2490a25e59d)
+![4](https://github.com/user-attachments/assets/abcdf85f-bf0d-448d-b66a-f415a9b19f62)
+![5](https://github.com/user-attachments/assets/1e156245-cd91-4fba-b123-89d29501ae69)
+![6](https://github.com/user-attachments/assets/274fa4eb-29ac-4c5e-935b-0bfe72828ee8)
+![7](https://github.com/user-attachments/assets/4c31a9e7-51d4-4e78-95b6-e50093566225)
