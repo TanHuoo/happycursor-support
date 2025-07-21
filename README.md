@@ -1,8 +1,10 @@
  # 喜标 - 技术支持
+ 安装地址，已上架Appstore：https://apps.apple.com/cn/app/%E5%96%9C%E6%A0%87/id6748666239?mt=12
    
    ## 联系方式
    - 邮箱：ximai@88.com
    - https://github.com/TanHuoo/happycursor-support
+
    
    ## 常见问题
    
